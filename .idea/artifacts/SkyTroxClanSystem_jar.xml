@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SkyTroxClanSystem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SkyTroxClanSystem_jar</output-path>
+    <root id="archive" name="SkyTroxClanSystem.jar">
+      <element id="module-output" name="SkyTroxClanSystem" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,5 @@
+name: ClanSystem
+author: FabiDark
+version: 1.5
+
+main: de.fabidark.clansystem.ClanSystem
